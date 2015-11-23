@@ -1,5 +1,5 @@
 # learning-mean-1
-Simple page aplication of notes
+Simple page aplication of tasks
 
 Basado en el siguiente tutorial:
 https://carlosazaustre.es/blog/tutorial-ejemplo-de-aplicacion-web-con-angular-js-y-api-rest-con-node/
